@@ -1,0 +1,127 @@
+Tanggal,Jenis Transaksi,Akun Debit,Akun Kredit,Nominal,Keterangan
+03/01/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp33.285.187,Pendapatan makanan/minuman
+03/01/25,Pembelian Bahan Baku,Persediaan,Kas,Rp7.630.982,Pembelian bahan baku makanan/minuman
+03/02/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp26.009.589,Pendapatan makanan/minuman
+03/02/25,Pembelian Bahan Baku,Persediaan,Kas,Rp5.783.735,Pembelian bahan baku makanan/minuman
+03/03/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp35.764.539,Pendapatan makanan/minuman
+03/03/25,Pembelian Bahan Baku,Persediaan,Kas,Rp5.676.378,Pembelian bahan baku makanan/minuman
+03/04/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp36.733.291,Pendapatan makanan/minuman
+03/04/25,Pembelian Bahan Baku,Persediaan,Kas,Rp5.062.525,Pembelian bahan baku makanan/minuman
+03/05/25,Pembelian Bahan Baku,Persediaan,Kas,Rp7.722.314,Pembelian bahan baku makanan/minuman
+03/05/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp27.758.391,Pendapatan makanan/minuman
+03/06/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp23.429.315,Pendapatan makanan/minuman
+03/06/25,Pembelian Bahan Baku,Persediaan,Kas,Rp5.824.143,Pembelian bahan baku makanan/minuman
+03/07/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp32.237.743,Pendapatan makanan/minuman
+03/07/25,Pembelian Bahan Baku,Persediaan,Kas,Rp6.594.823,Pembelian bahan baku makanan/minuman
+03/08/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp29.160.914,Pendapatan makanan/minuman
+03/08/25,Pembelian Bahan Baku,Persediaan,Kas,Rp5.380.146,Pembelian bahan baku makanan/minuman
+03/09/25,Pembelian Bahan Baku,Persediaan,Kas,Rp8.227.685,Pembelian bahan baku makanan/minuman
+03/09/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp24.213.190,Pendapatan makanan/minuman
+03/10/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp30.497.251,Pendapatan makanan/minuman
+03/10/25,Pembelian Bahan Baku,Persediaan,Kas,Rp8.544.501,Pembelian bahan baku makanan/minuman
+03/11/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp36.185.392,Pendapatan makanan/minuman
+03/11/25,Pembelian Bahan Baku,Persediaan,Kas,Rp6.448.150,Pembelian bahan baku makanan/minuman
+03/12/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp28.668.853,Pendapatan makanan/minuman
+03/12/25,Pembelian Bahan Baku,Persediaan,Kas,Rp8.325.485,Pembelian bahan baku makanan/minuman
+03/13/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp36.919.114,Pendapatan makanan/minuman
+03/13/25,Pembelian Bahan Baku,Persediaan,Kas,Rp7.221.502,Pembelian bahan baku makanan/minuman
+03/14/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp34.367.107,Pendapatan makanan/minuman
+03/14/25,Pembelian Bahan Baku,Persediaan,Kas,Rp8.057.671,Pembelian bahan baku makanan/minuman
+03/15/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp32.135.778,Pendapatan makanan/minuman
+03/15/25,Pembelian Bahan Baku,Persediaan,Kas,Rp6.608.332,Pembelian bahan baku makanan/minuman
+03/16/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp21.923.805,Pendapatan makanan/minuman
+03/16/25,Pembelian Bahan Baku,Persediaan,Kas,Rp6.930.993,Pembelian bahan baku makanan/minuman
+03/17/25,Pembelian Bahan Baku,Persediaan,Kas,Rp8.139.438,Pembelian bahan baku makanan/minuman
+03/17/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp31.676.196,Pendapatan makanan/minuman
+03/18/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp31.412.896,Pendapatan makanan/minuman
+03/18/25,Pembelian Bahan Baku,Persediaan,Kas,Rp8.958.497,Pembelian bahan baku makanan/minuman
+03/19/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp35.326.393,Pendapatan makanan/minuman
+03/19/25,Pembelian Bahan Baku,Persediaan,Kas,Rp8.893.807,Pembelian bahan baku makanan/minuman
+03/20/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp35.347.243,Pendapatan makanan/minuman
+03/20/25,Pembelian Bahan Baku,Persediaan,Kas,Rp6.238.901,Pembelian bahan baku makanan/minuman
+03/21/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp26.686.657,Pendapatan makanan/minuman
+03/21/25,Pembelian Bahan Baku,Persediaan,Kas,Rp5.194.509,Pembelian bahan baku makanan/minuman
+03/22/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp33.181.418,Pendapatan makanan/minuman
+03/22/25,Pembelian Bahan Baku,Persediaan,Kas,Rp5.042.608,Pembelian bahan baku makanan/minuman
+03/23/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp29.549.421,Pendapatan makanan/minuman
+03/23/25,Pembelian Bahan Baku,Persediaan,Kas,Rp6.020.448,Pembelian bahan baku makanan/minuman
+03/24/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp30.269.622,Pendapatan makanan/minuman
+03/24/25,Pembelian Bahan Baku,Persediaan,Kas,Rp8.481.100,Pembelian bahan baku makanan/minuman
+03/25/25,Pembelian Bahan Baku,Persediaan,Kas,Rp8.277.230,Pembelian bahan baku makanan/minuman
+03/25/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp29.187.759,Pendapatan makanan/minuman
+03/26/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp29.324.452,Pendapatan makanan/minuman
+03/26/25,Pembelian Bahan Baku,Persediaan,Kas,Rp8.952.991,Pembelian bahan baku makanan/minuman
+03/26/25,Bayar Gaji,Beban Gaji,Kas,Rp60.000.000,Gaji karyawan
+03/27/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp21.750.660,Pendapatan makanan/minuman
+03/27/25,Pembelian Bahan Baku,Persediaan,Kas,Rp6.008.575,Pembelian bahan baku makanan/minuman
+03/28/25,Bayar Sewa,Beban Sewa,Kas,Rp10.000.000,Pembayaran sewa bulanan
+03/28/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp27.868.397,Pendapatan makanan/minuman
+03/28/25,Pembelian Bahan Baku,Persediaan,Kas,Rp7.607.855,Pembelian bahan baku makanan/minuman
+03/29/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp26.658.808,Pendapatan makanan/minuman
+03/29/25,Pembelian Bahan Baku,Persediaan,Kas,Rp6.832.728,Pembelian bahan baku makanan/minuman
+03/30/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp25.332.768,Pendapatan makanan/minuman
+03/30/25,Pembelian Bahan Baku,Persediaan,Kas,Rp5.438.435,Pembelian bahan baku makanan/minuman
+03/30/25,Bayar Air/Listrik,Beban Utilitas,Kas,Rp10.000.000,Pembayaran air dan listrik
+03/31/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp21.817.711,Pendapatan makanan/minuman
+03/31/25,Pembelian Bahan Baku,Persediaan,Kas,Rp5.698.433,Pembelian bahan baku makanan/minuman
+04/01/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp31.967.160,Pendapatan makanan/minuman
+04/01/25,Pembelian Bahan Baku,Persediaan,Kas,Rp6.312.933,Pembelian bahan baku makanan/minuman
+04/02/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp30.470.967,Pendapatan makanan/minuman
+04/02/25,Pembelian Bahan Baku,Persediaan,Kas,Rp5.846.399,Pembelian bahan baku makanan/minuman
+04/03/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp32.465.850,Pendapatan makanan/minuman
+04/03/25,Pembelian Bahan Baku,Persediaan,Kas,Rp6.845.431,Pembelian bahan baku makanan/minuman
+04/04/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp27.482.636,Pendapatan makanan/minuman
+04/04/25,Pembelian Bahan Baku,Persediaan,Kas,Rp8.595.571,Pembelian bahan baku makanan/minuman
+04/05/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp37.065.223,Pendapatan makanan/minuman
+04/05/25,Pembelian Bahan Baku,Persediaan,Kas,Rp5.503.371,Pembelian bahan baku makanan/minuman
+04/06/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp22.553.023,Pendapatan makanan/minuman
+04/06/25,Pembelian Bahan Baku,Persediaan,Kas,Rp6.237.802,Pembelian bahan baku makanan/minuman
+04/07/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp21.041.875,Pendapatan makanan/minuman
+04/07/25,Pembelian Bahan Baku,Persediaan,Kas,Rp7.525.381,Pembelian bahan baku makanan/minuman
+04/08/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp37.262.214,Pendapatan makanan/minuman
+04/08/25,Pembelian Bahan Baku,Persediaan,Kas,Rp7.834.911,Pembelian bahan baku makanan/minuman
+04/09/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp35.052.671,Pendapatan makanan/minuman
+04/09/25,Pembelian Bahan Baku,Persediaan,Kas,Rp5.757.622,Pembelian bahan baku makanan/minuman
+04/10/25,Pembelian Bahan Baku,Persediaan,Kas,Rp7.762.098,Pembelian bahan baku makanan/minuman
+04/10/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp20.208.035,Pendapatan makanan/minuman
+04/11/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp22.473.735,Pendapatan makanan/minuman
+04/11/25,Pembelian Bahan Baku,Persediaan,Kas,Rp5.779.455,Pembelian bahan baku makanan/minuman
+04/12/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp36.732.897,Pendapatan makanan/minuman
+04/12/25,Pembelian Bahan Baku,Persediaan,Kas,Rp6.107.718,Pembelian bahan baku makanan/minuman
+04/13/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp36.068.276,Pendapatan makanan/minuman
+04/13/25,Pembelian Bahan Baku,Persediaan,Kas,Rp7.514.954,Pembelian bahan baku makanan/minuman
+04/14/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp26.014.343,Pendapatan makanan/minuman
+04/14/25,Pembelian Bahan Baku,Persediaan,Kas,Rp6.047.929,Pembelian bahan baku makanan/minuman
+04/15/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp39.590.659,Pendapatan makanan/minuman
+04/15/25,Pembelian Bahan Baku,Persediaan,Kas,Rp8.256.327,Pembelian bahan baku makanan/minuman
+04/16/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp37.314.584,Pendapatan makanan/minuman
+04/16/25,Pembelian Bahan Baku,Persediaan,Kas,Rp6.429.573,Pembelian bahan baku makanan/minuman
+04/17/25,Pembelian Bahan Baku,Persediaan,Kas,Rp6.346.003,Pembelian bahan baku makanan/minuman
+04/17/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp32.922.560,Pendapatan makanan/minuman
+04/18/25,Pembelian Bahan Baku,Persediaan,Kas,Rp7.329.932,Pembelian bahan baku makanan/minuman
+04/18/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp28.765.302,Pendapatan makanan/minuman
+04/19/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp28.257.772,Pendapatan makanan/minuman
+04/19/25,Pembelian Bahan Baku,Persediaan,Kas,Rp7.185.591,Pembelian bahan baku makanan/minuman
+04/20/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp21.602.311,Pendapatan makanan/minuman
+04/20/25,Pembelian Bahan Baku,Persediaan,Kas,Rp5.846.828,Pembelian bahan baku makanan/minuman
+04/21/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp30.756.579,Pendapatan makanan/minuman
+04/21/25,Pembelian Bahan Baku,Persediaan,Kas,Rp5.049.351,Pembelian bahan baku makanan/minuman
+04/22/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp26.473.005,Pendapatan makanan/minuman
+04/22/25,Pembelian Bahan Baku,Persediaan,Kas,Rp5.271.386,Pembelian bahan baku makanan/minuman
+04/23/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp25.935.627,Pendapatan makanan/minuman
+04/23/25,Pembelian Bahan Baku,Persediaan,Kas,Rp5.397.672,Pembelian bahan baku makanan/minuman
+04/24/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp33.467.923,Pendapatan makanan/minuman
+04/24/25,Pembelian Bahan Baku,Persediaan,Kas,Rp8.075.082,Pembelian bahan baku makanan/minuman
+04/25/25,Bayar Gaji,Beban Gaji,Kas,Rp60.000.000,Gaji karyawan
+04/25/25,Pembelian Bahan Baku,Persediaan,Kas,Rp6.972.735,Pembelian bahan baku makanan/minuman
+04/25/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp24.843.474,Pendapatan makanan/minuman
+04/26/25,Pembelian Bahan Baku,Persediaan,Kas,Rp6.153.808,Pembelian bahan baku makanan/minuman
+04/26/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp22.313.456,Pendapatan makanan/minuman
+04/27/25,Pembelian Bahan Baku,Persediaan,Kas,Rp5.636.035,Pembelian bahan baku makanan/minuman
+04/27/25,Bayar Sewa,Beban Sewa,Kas,Rp10.000.000,Pembayaran sewa bulanan
+04/27/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp22.209.542,Pendapatan makanan/minuman
+04/28/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp31.108.277,Pendapatan makanan/minuman
+04/28/25,Pembelian Bahan Baku,Persediaan,Kas,Rp7.014.316,Pembelian bahan baku makanan/minuman
+04/29/25,Penjualan Tunai,Kas,Pendapatan Penjualan,Rp33.057.408,Pendapatan makanan/minuman
+04/29/25,Pembelian Bahan Baku,Persediaan,Kas,Rp8.196.112,Pembelian bahan baku makanan/minuman
+04/29/25,Bayar Air/Listrik,Beban Utilitas,Kas,Rp10.000.000,Pembayaran air dan listrik

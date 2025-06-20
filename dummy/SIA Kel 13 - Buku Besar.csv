@@ -1,0 +1,273 @@
+Tanggal,Keterangan,Kode Akun,Akun,Debit,Kredit,Saldo
+03/01/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp7.630.982,Rp0,-Rp7.630.982
+03/01/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp33.285.187,Rp25.654.205
+03/02/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp5.783.735,Rp0,Rp19.870.470
+03/02/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp26.009.589,Rp45.880.059
+03/03/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp5.676.378,Rp0,Rp40.203.681
+03/03/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp35.764.539,Rp75.968.220
+03/04/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp5.062.525,Rp0,Rp70.905.695
+03/04/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp36.733.291,Rp107.638.986
+03/05/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp7.722.314,Rp0,Rp99.916.672
+03/05/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp27.758.391,Rp127.675.063
+03/06/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp5.824.143,Rp0,Rp121.850.920
+03/06/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp23.429.315,Rp145.280.235
+03/07/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp6.594.823,Rp0,Rp138.685.412
+03/07/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp32.237.743,Rp170.923.155
+03/08/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp5.380.146,Rp0,Rp165.543.009
+03/08/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp29.160.914,Rp194.703.923
+03/09/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp8.227.685,Rp0,Rp186.476.238
+03/09/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp24.213.190,Rp210.689.428
+03/10/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp8.544.501,Rp0,Rp202.144.927
+03/10/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp30.497.251,Rp232.642.178
+03/11/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp6.448.150,Rp0,Rp226.194.028
+03/11/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp36.185.392,Rp262.379.420
+03/12/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp8.325.485,Rp0,Rp254.053.935
+03/12/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp28.668.853,Rp282.722.788
+03/13/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp7.221.502,Rp0,Rp275.501.286
+03/13/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp36.919.114,Rp312.420.400
+03/14/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp8.057.671,Rp0,Rp304.362.729
+03/14/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp34.367.107,Rp338.729.836
+03/15/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp6.608.332,Rp0,Rp332.121.504
+03/15/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp32.135.778,Rp364.257.282
+03/16/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp6.930.993,Rp0,Rp357.326.289
+03/16/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp21.923.805,Rp379.250.094
+03/17/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp8.139.438,Rp0,Rp371.110.656
+03/17/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp31.676.196,Rp402.786.852
+03/18/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp8.958.497,Rp0,Rp393.828.355
+03/18/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp31.412.896,Rp425.241.251
+03/19/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp8.893.807,Rp0,Rp416.347.444
+03/19/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp35.326.393,Rp451.673.837
+03/20/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp6.238.901,Rp0,Rp445.434.936
+03/20/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp35.347.243,Rp480.782.179
+03/21/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp5.194.509,Rp0,Rp475.587.670
+03/21/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp26.686.657,Rp502.274.327
+03/22/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp5.042.608,Rp0,Rp497.231.719
+03/22/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp33.181.418,Rp530.413.137
+03/23/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp6.020.448,Rp0,Rp524.392.689
+03/23/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp29.549.421,Rp553.942.110
+03/24/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp8.481.100,Rp0,Rp545.461.010
+03/24/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp30.269.622,Rp575.730.632
+03/25/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp8.277.230,Rp0,Rp567.453.402
+03/25/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp29.187.759,Rp596.641.161
+03/26/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp8.952.991,Rp0,Rp587.688.170
+03/26/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp29.324.452,Rp617.012.622
+03/26/25,Gaji karyawan,115,Beban Gaji,Rp60.000.000,Rp0,Rp557.012.622
+03/27/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp6.008.575,Rp0,Rp551.004.047
+03/27/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp21.750.660,Rp572.754.707
+03/28/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp7.607.855,Rp0,Rp565.146.852
+03/28/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp27.868.397,Rp593.015.249
+03/28/25,Pembayaran sewa bulanan,116,Beban Sewa,Rp10.000.000,Rp0,Rp583.015.249
+03/29/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp6.832.728,Rp0,Rp576.182.521
+03/29/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp26.658.808,Rp602.841.329
+03/30/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp5.438.435,Rp0,Rp597.402.894
+03/30/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp25.332.768,Rp622.735.662
+03/30/25,Pembayaran air dan listrik,113,Beban Utilitas,Rp10.000.000,Rp0,Rp612.735.662
+03/31/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp5.698.433,Rp0,Rp607.037.229
+03/31/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp21.817.711,Rp628.854.940
+04/01/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp6.312.933,Rp0,Rp622.542.007
+04/01/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp31.967.160,Rp654.509.167
+04/02/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp5.846.399,Rp0,Rp648.662.768
+04/02/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp30.470.967,Rp679.133.735
+04/03/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp6.845.431,Rp0,Rp672.288.304
+04/03/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp32.465.850,Rp704.754.154
+04/04/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp8.595.571,Rp0,Rp696.158.583
+04/04/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp27.482.636,Rp723.641.219
+04/05/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp5.503.371,Rp0,Rp718.137.848
+04/05/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp37.065.223,Rp755.203.071
+04/06/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp6.237.802,Rp0,Rp748.965.269
+04/06/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp22.553.023,Rp771.518.292
+04/07/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp7.525.381,Rp0,Rp763.992.911
+04/07/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp21.041.875,Rp785.034.786
+04/08/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp7.834.911,Rp0,Rp777.199.875
+04/08/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp37.262.214,Rp814.462.089
+04/09/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp5.757.622,Rp0,Rp808.704.467
+04/09/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp35.052.671,Rp843.757.138
+04/10/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp7.762.098,Rp0,Rp835.995.040
+04/10/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp20.208.035,Rp856.203.075
+04/11/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp5.779.455,Rp0,Rp850.423.620
+04/11/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp22.473.735,Rp872.897.355
+04/12/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp6.107.718,Rp0,Rp866.789.637
+04/12/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp36.732.897,Rp903.522.534
+04/13/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp7.514.954,Rp0,Rp896.007.580
+04/13/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp36.068.276,Rp932.075.856
+04/14/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp6.047.929,Rp0,Rp926.027.927
+04/14/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp26.014.343,Rp952.042.270
+04/15/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp8.256.327,Rp0,Rp943.785.943
+04/15/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp39.590.659,Rp983.376.602
+04/16/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp6.429.573,Rp0,Rp976.947.029
+04/16/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp37.314.584,Rp1.014.261.613
+04/17/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp6.346.003,Rp0,Rp1.007.915.610
+04/17/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp32.922.560,Rp1.040.838.170
+04/18/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp7.329.932,Rp0,Rp1.033.508.238
+04/18/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp28.765.302,Rp1.062.273.540
+04/19/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp7.185.591,Rp0,Rp1.055.087.949
+04/19/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp28.257.772,Rp1.083.345.721
+04/20/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp5.846.828,Rp0,Rp1.077.498.893
+04/20/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp21.602.311,Rp1.099.101.204
+04/21/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp5.049.351,Rp0,Rp1.094.051.853
+04/21/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp30.756.579,Rp1.124.808.432
+04/22/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp5.271.386,Rp0,Rp1.119.537.046
+04/22/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp26.473.005,Rp1.146.010.051
+04/23/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp5.397.672,Rp0,Rp1.140.612.379
+04/23/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp25.935.627,Rp1.166.548.006
+04/24/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp8.075.082,Rp0,Rp1.158.472.924
+04/24/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp33.467.923,Rp1.191.940.847
+04/25/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp6.972.735,Rp0,Rp1.184.968.112
+04/25/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp24.843.474,Rp1.209.811.586
+04/25/25,Gaji karyawan,115,Beban Gaji,Rp60.000.000,Rp0,Rp1.149.811.586
+04/26/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp6.153.808,Rp0,Rp1.143.657.778
+04/26/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp22.313.456,Rp1.165.971.234
+04/27/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp5.636.035,Rp0,Rp1.160.335.199
+04/27/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp22.209.542,Rp1.182.544.741
+04/27/25,Pembayaran sewa bulanan,116,Beban Sewa,Rp10.000.000,Rp0,Rp1.172.544.741
+04/28/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp7.014.316,Rp0,Rp1.165.530.425
+04/28/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp31.108.277,Rp1.196.638.702
+04/29/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp8.196.112,Rp0,Rp1.188.442.590
+04/29/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp33.057.408,Rp1.221.499.998
+04/29/25,Pembayaran air dan listrik,113,Beban Utilitas,Rp10.000.000,Rp0,Rp1.211.499.998
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+Pendapatan,,,,,,
+Tanggal,Keterangan,Kode Akun,Akun,Debit,Kredit,Saldo
+03/01/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp33.285.187,Rp33.285.187
+03/02/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp26.009.589,Rp26.009.589
+03/03/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp35.764.539,Rp35.764.539
+03/04/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp36.733.291,Rp36.733.291
+03/05/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp27.758.391,Rp27.758.391
+03/06/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp23.429.315,Rp23.429.315
+03/07/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp32.237.743,Rp32.237.743
+03/08/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp29.160.914,Rp29.160.914
+03/09/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp24.213.190,Rp24.213.190
+03/10/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp30.497.251,Rp30.497.251
+03/11/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp36.185.392,Rp36.185.392
+03/12/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp28.668.853,Rp28.668.853
+03/13/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp36.919.114,Rp36.919.114
+03/14/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp34.367.107,Rp34.367.107
+03/15/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp32.135.778,Rp32.135.778
+03/16/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp21.923.805,Rp21.923.805
+03/17/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp31.676.196,Rp31.676.196
+03/18/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp31.412.896,Rp31.412.896
+03/19/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp35.326.393,Rp35.326.393
+03/20/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp35.347.243,Rp35.347.243
+03/21/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp26.686.657,Rp26.686.657
+03/22/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp33.181.418,Rp33.181.418
+03/23/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp29.549.421,Rp29.549.421
+03/24/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp30.269.622,Rp30.269.622
+03/25/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp29.187.759,Rp29.187.759
+03/26/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp29.324.452,Rp29.324.452
+03/27/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp21.750.660,Rp21.750.660
+03/28/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp27.868.397,Rp27.868.397
+03/29/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp26.658.808,Rp26.658.808
+03/30/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp25.332.768,Rp25.332.768
+03/31/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp21.817.711,Rp21.817.711
+04/01/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp31.967.160,Rp31.967.160
+04/02/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp30.470.967,Rp30.470.967
+04/03/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp32.465.850,Rp32.465.850
+04/04/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp27.482.636,Rp27.482.636
+04/05/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp37.065.223,Rp37.065.223
+04/06/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp22.553.023,Rp22.553.023
+04/07/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp21.041.875,Rp21.041.875
+04/08/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp37.262.214,Rp37.262.214
+04/09/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp35.052.671,Rp35.052.671
+04/10/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp20.208.035,Rp20.208.035
+04/11/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp22.473.735,Rp22.473.735
+04/12/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp36.732.897,Rp36.732.897
+04/13/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp36.068.276,Rp36.068.276
+04/14/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp26.014.343,Rp26.014.343
+04/15/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp39.590.659,Rp39.590.659
+04/16/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp37.314.584,Rp37.314.584
+04/17/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp32.922.560,Rp32.922.560
+04/18/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp28.765.302,Rp28.765.302
+04/19/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp28.257.772,Rp28.257.772
+04/20/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp21.602.311,Rp21.602.311
+04/21/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp30.756.579,Rp30.756.579
+04/22/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp26.473.005,Rp26.473.005
+04/23/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp25.935.627,Rp25.935.627
+04/24/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp33.467.923,Rp33.467.923
+04/25/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp24.843.474,Rp24.843.474
+04/26/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp22.313.456,Rp22.313.456
+04/27/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp22.209.542,Rp22.209.542
+04/28/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp31.108.277,Rp31.108.277
+04/29/25,Pendapatan makanan/minuman,112,Pendapatan Penjualan,Rp0,Rp33.057.408,Rp33.057.408
+,,,,,,
+,,,,,,
+Persediaan,,,,,,
+Tanggal,Keterangan,Kode Akun,Akun,Debit,Kredit,Saldo
+03/01/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp7.630.982,Rp0,-Rp7.630.982
+03/02/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp5.783.735,Rp0,-Rp13.414.717
+03/03/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp5.676.378,Rp0,-Rp19.091.095
+03/04/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp5.062.525,Rp0,-Rp24.153.620
+03/05/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp7.722.314,Rp0,-Rp31.875.934
+03/06/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp5.824.143,Rp0,-Rp37.700.077
+03/07/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp6.594.823,Rp0,-Rp44.294.900
+03/08/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp5.380.146,Rp0,-Rp49.675.046
+03/09/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp8.227.685,Rp0,-Rp57.902.731
+03/10/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp8.544.501,Rp0,-Rp66.447.232
+03/11/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp6.448.150,Rp0,-Rp72.895.382
+03/12/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp8.325.485,Rp0,-Rp81.220.867
+03/13/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp7.221.502,Rp0,-Rp88.442.369
+03/14/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp8.057.671,Rp0,-Rp96.500.040
+03/15/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp6.608.332,Rp0,-Rp103.108.372
+03/16/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp6.930.993,Rp0,-Rp110.039.365
+03/17/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp8.139.438,Rp0,-Rp118.178.803
+03/18/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp8.958.497,Rp0,-Rp127.137.300
+03/19/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp8.893.807,Rp0,-Rp136.031.107
+03/20/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp6.238.901,Rp0,-Rp142.270.008
+03/21/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp5.194.509,Rp0,-Rp147.464.517
+03/22/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp5.042.608,Rp0,-Rp152.507.125
+03/23/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp6.020.448,Rp0,-Rp158.527.573
+03/24/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp8.481.100,Rp0,-Rp167.008.673
+03/25/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp8.277.230,Rp0,-Rp175.285.903
+03/26/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp8.952.991,Rp0,-Rp184.238.894
+03/27/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp6.008.575,Rp0,-Rp190.247.469
+03/28/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp7.607.855,Rp0,-Rp197.855.324
+03/29/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp6.832.728,Rp0,-Rp204.688.052
+03/30/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp5.438.435,Rp0,-Rp210.126.487
+03/31/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp5.698.433,Rp0,-Rp215.824.920
+04/01/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp6.312.933,Rp0,-Rp222.137.853
+04/02/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp5.846.399,Rp0,-Rp227.984.252
+04/03/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp6.845.431,Rp0,-Rp234.829.683
+04/04/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp8.595.571,Rp0,-Rp243.425.254
+04/05/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp5.503.371,Rp0,-Rp248.928.625
+04/06/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp6.237.802,Rp0,-Rp255.166.427
+04/07/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp7.525.381,Rp0,-Rp262.691.808
+04/08/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp7.834.911,Rp0,-Rp270.526.719
+04/09/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp5.757.622,Rp0,-Rp276.284.341
+04/10/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp7.762.098,Rp0,-Rp284.046.439
+04/11/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp5.779.455,Rp0,-Rp289.825.894
+04/12/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp6.107.718,Rp0,-Rp295.933.612
+04/13/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp7.514.954,Rp0,-Rp303.448.566
+04/14/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp6.047.929,Rp0,-Rp309.496.495
+04/15/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp8.256.327,Rp0,-Rp317.752.822
+04/16/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp6.429.573,Rp0,-Rp324.182.395
+04/17/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp6.346.003,Rp0,-Rp330.528.398
+04/18/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp7.329.932,Rp0,-Rp337.858.330
+04/19/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp7.185.591,Rp0,-Rp345.043.921
+04/20/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp5.846.828,Rp0,-Rp350.890.749
+04/21/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp5.049.351,Rp0,-Rp355.940.100
+04/22/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp5.271.386,Rp0,-Rp361.211.486
+04/23/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp5.397.672,Rp0,-Rp366.609.158
+04/24/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp8.075.082,Rp0,-Rp374.684.240
+04/25/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp6.972.735,Rp0,-Rp381.656.975
+04/26/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp6.153.808,Rp0,-Rp387.810.783
+04/27/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp5.636.035,Rp0,-Rp393.446.818
+04/28/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp7.014.316,Rp0,-Rp400.461.134
+04/29/25,Pembelian bahan baku makanan/minuman,111,Persediaan,Rp8.196.112,Rp0,-Rp408.657.246
+,,,,,,
+,,,,,,
+Beban Gaji,,,,,,
+Tanggal,Keterangan,Kode Akun,Akun,Debit,Kredit,Saldo
+03/26/25,Gaji karyawan,115,Beban Gaji,Rp60.000.000,Rp0,-Rp60.000.000
+04/25/25,Gaji karyawan,115,Beban Gaji,Rp60.000.000,Rp0,-Rp120.000.000
+,,,,,,
+Beban Utilitas,,,,,,
+Tanggal,Keterangan,Kode Akun,Akun,Debit,Kredit,Saldo
+03/30/25,Pembayaran air dan listrik,113,Beban Utilitas,Rp10.000.000,Rp0,#VALUE!
+04/29/25,Pembayaran air dan listrik,113,Beban Utilitas,Rp10.000.000,Rp0,#VALUE!
+,,,,,,
+Beban Sewa,,,,,,
+Tanggal,Keterangan,Kode Akun,Akun,Debit,Kredit,Saldo
+03/28/25,Pembayaran sewa bulanan,116,Beban Sewa,Rp10.000.000,Rp0,#VALUE!
+04/27/25,Pembayaran sewa bulanan,116,Beban Sewa,Rp10.000.000,Rp0,#VALUE!

@@ -1,0 +1,42 @@
+
+
+neraca saldo
+debit = Rp1.128.309.710
+credit = Rp1.128.309.710
+
+
+
+kertas kerja
+April 2025					
+					
+Kode Akun	Nama Akun	NS Debit	NS Kredit	LR Debit	LR Kredit
+001	Kas	Rp855.477.384	Rp272.832.326	Rp0	Rp0
+002	Beban Gaji	Rp60.000.000	Rp0	Rp60.000.000	Rp0
+003	Beban Sewa	Rp10.000.000	Rp0	Rp10.000.000	Rp0
+004	Beban Utilitas	Rp10.000.000	Rp0	Rp10.000.000	Rp0
+005	Persediaan	Rp192.832.326	Rp0	Rp192.832.326	Rp0
+006	Pendapatan Penjualan	Rp0	Rp855.477.384	Rp0	Rp855.477.384
+Total		Rp1.128.309.710	Rp1.128.309.710	Rp272.832.326	Rp855.477.384
+					
+					
+laba rugi			
+April 2025	
+	
+Pendapatan 	
+Akun	Nominal
+Pendapatan Penjualan	Rp855.477.384
+Total	Rp855.477.384
+	
+Beban	
+Akun	Kredit
+Beban Gaji	Rp60.000.000
+Beban Sewa	Rp10.000.000
+Beban Utilitas	Rp10.000.000
+Persediaan	Rp192.832.326
+Total	Rp272.832.326
+	
+Total Laba Bersih	Rp582.645.058
+
+
+
+sesuaikan dengan data diatas
